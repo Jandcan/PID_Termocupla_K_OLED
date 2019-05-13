@@ -1,0 +1,9 @@
+%%
+clc
+clear all
+close all
+%% Cargar Datos
+Dato=load('TermoData.mat');
+Funcion=LOAD
+plot(Dato.Temp)
+%% Mostrar Funcion de Tranferencia
