@@ -1,5 +1,7 @@
 # PID_Termocupla_K_OLED
 Video de ejemplo: https://youtu.be/l73wgO0hXsQ
+
+
 El formato de la trama de envio al Graficador Serial es: "$$d[dato]#d[dato]#...d[dato]#QQ\r\n", remplazar lo que esta en parentesis
 Para la instalacion del Graficador Serial:
 1) Abrir Matlab
